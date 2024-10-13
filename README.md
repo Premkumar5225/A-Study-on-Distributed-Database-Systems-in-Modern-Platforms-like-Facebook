@@ -1,4 +1,4 @@
-# A-Study-on-Distributed-Database-Systems-in-Modern-Platforms-like-Facebook
+# A Study on Distributed Database Systems in Modern Platforms like Facebook
 
 This research paper explores the crucial role of distributed database systems in supporting the scale and performance requirements of modern social media platforms, with a focus on Facebook. The paper provides a brief history of the evolution of distributed database systems in the social media landscape, highlighting how platforms like Facebook have spearheaded the adoption of these systems to effectively manage their rapidly expanding user base and intricate data relationships.
 
